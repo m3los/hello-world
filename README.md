@@ -1,4 +1,5 @@
 # hello-world
 This is my first repository
-------------------
-Moje meno je Miloš
+
+Dobrý deň,
+moje meno je Miloš
